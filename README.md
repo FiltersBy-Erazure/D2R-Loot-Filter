@@ -11,11 +11,9 @@ After you have successfully done this, copy and paste the json files into your D
 ![image](https://user-images.githubusercontent.com/76863417/219985426-0f34e0f6-63d6-4e5b-8b8c-ee872e1c815f.png)
 
 
-  Potions
+This loot filter is for mid-lategame and has potions H1-H4 and M1-M4 hidden.
 
 ![image](https://user-images.githubusercontent.com/76863417/219979503-91208faa-8aa2-4169-9dba-11d71fe34e2e.png)
-
-  Gems
 
 ![image](https://user-images.githubusercontent.com/76863417/219979022-0b2ad9fc-12e1-482f-8bd0-05bdd5bc63e1.png)
 
