@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": 1060,
     "Key": "qf1",
@@ -13857,7 +13857,7 @@
   {
     "id": 20259,
     "Key": "7vo",
-    "enUS": "Colossus Voulge",
+    "enUS": "\n|(O   Colossus Voulge   O)|\n",
     "zhTW": "巨神長柄斧",
     "deDE": "[fs]Kolossvulge",
     "esES": "[ms]Voulge del coloso",
@@ -13891,7 +13891,7 @@
   {
     "id": 20261,
     "Key": "7pa",
-    "enUS": "Cryptic Axe",
+    "enUS": "\n|(O   Cryptic Axe   O)|\n",
     "zhTW": "絕秘斧",
     "deDE": "[fs]Rätselhafte Axt",
     "esES": "[fs]Hacha críptica",
@@ -13908,7 +13908,7 @@
   {
     "id": 20262,
     "Key": "7h7",
-    "enUS": "Great Poleaxe",
+    "enUS": "\n|(O   Great Poleaxe   O)|\n",
     "zhTW": "巨型長柄斧",
     "deDE": "[fs]Große Stangenaxt",
     "esES": "[fs]Gran hacha larga",
@@ -13925,7 +13925,7 @@
   {
     "id": 20263,
     "Key": "7wc",
-    "enUS": "Giant Thresher",
+    "enUS": "\n|(O   Giant Thresher   O)|\n",
     "zhTW": "巨型斬鐮",
     "deDE": "[ms]Riesendrescher",
     "esES": "[fs]Trilladora gigante",
