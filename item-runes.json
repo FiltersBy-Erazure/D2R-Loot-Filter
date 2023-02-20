@@ -1,8 +1,8 @@
-﻿[
+[
   {
     "id": 10902,
     "Key": "r16",
-    "enUS": " \n ÿc8Xx ÿc9Xx ÿc5x  ÿc0Io Rune  ÿc5x ÿc9xX ÿc8xXÿc0 \n ",
+    "enUS": "\n ÿc8Xx ÿc9Xx ÿc5x  ÿc0Io Rune  ÿc5x ÿc9xX ÿc8xXÿc0 \n",
     "zhTW": "符文：埃歐",
     "deDE": "[fs]Io-Rune",
     "esES": "Runa Io",
@@ -36,7 +36,7 @@
   {
     "id": 10904,
     "Key": "r13",
-    "enUS": " \n ÿc3X ÿc:Xx ÿc5x  ÿc0Shael Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n ",
+    "enUS": "\n ÿc3X ÿc:Xx ÿc5x  ÿc0Shael Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n",
     "zhTW": "符文：夏",
     "deDE": "[fs]Shael-Rune",
     "esES": "Runa Shael",
@@ -274,7 +274,7 @@
   {
     "id": 20450,
     "Key": "r23",
-    "enUS": " \n  \n ÿc:xXÿc2xXÿc4XOXÿc2Xxÿc:Xx  ÿc0Mal Rune  xXÿc2xXÿc4XOXÿc2Xxÿc:Xx \n  \n ",
+    "enUS": "\n\n ÿc:xXÿc2xXÿc4XOXÿc2Xxÿc:Xx  ÿc0Mal Rune  ÿc:xXÿc2xXÿc4XOXÿc2Xxÿc:Xx \n\n",
     "zhTW": "符文：馬爾",
     "deDE": "[fs]Mal-Rune",
     "esES": "Runa Mal",
@@ -291,7 +291,7 @@
   {
     "id": 20451,
     "Key": "r22",
-    "enUS": " \n  \n xXÿc2xXÿc4XOXÿc2Xxÿc:Xx  ÿc0Um Rune  xXÿc2xXÿc4XOXÿc2Xxÿc:Xx \n  \n ",
+    "enUS": "\n\n ÿc:xXÿc2xXÿc4XOXÿc2Xxÿc:Xx  ÿc0Um Rune  ÿc:xXÿc2xXÿc4XOXÿc2Xxÿc:Xx \n\n",
     "zhTW": "符文：烏姆",
     "deDE": "[fs]Um-Rune",
     "esES": "Runa Um",
@@ -308,7 +308,7 @@
   {
     "id": 20452,
     "Key": "r21",
-    "enUS": " \n  \n ÿc2Xx ÿc:Xx ÿc5x  ÿc0Pul Rune  ÿc5x ÿc:xX ÿc2xXÿc0 \n  \n ",
+    "enUS": "\n\n ÿc2Xx ÿc:Xx ÿc5x  ÿc0Pul Rune  ÿc5x ÿc:xX ÿc2xXÿc0 \n\n",
     "zhTW": "符文：普爾",
     "deDE": "[fs]Pul-Rune",
     "esES": "Runa Pul",
@@ -325,7 +325,7 @@
   {
     "id": 20453,
     "Key": "r20",
-    "enUS": " \n  \n ÿc2Xx ÿc:Xx ÿc5x  ÿc0Lem Rune  ÿc5x ÿc:xX ÿc2xXÿc0 \n  \n ",
+    "enUS": "\n\n ÿc2Xx ÿc:Xx ÿc5x  ÿc0Lem Rune  ÿc5x ÿc:xX ÿc2xXÿc0 \n\n",
     "zhTW": "符文：藍姆",
     "deDE": "[fs]Lem-Rune",
     "esES": "Runa Lem",
@@ -342,7 +342,7 @@
   {
     "id": 20454,
     "Key": "r19",
-    "enUS": " \n ÿc8Xx ÿc9Xx ÿc5x  ÿc0Fal Rune  ÿc5x ÿc9xX ÿc8xXÿc0 \n ",
+    "enUS": "\n ÿc8Xx ÿc9Xx ÿc5x  ÿc0Fal Rune  ÿc5x ÿc9xX ÿc8xXÿc0 \n",
     "zhTW": "符文：法爾",
     "deDE": "[fs]Fal-Rune",
     "esES": "Runa Fal",
@@ -359,7 +359,7 @@
   {
     "id": 20455,
     "Key": "r18",
-    "enUS": " \n ÿc8Xx ÿc9Xx ÿc5x  ÿc0Ko Rune  ÿc5x ÿc9xX ÿc8xXÿc0 \n ",
+    "enUS": "\n ÿc8Xx ÿc9Xx ÿc5x  ÿc0Ko Rune  ÿc5x ÿc9xX ÿc8xXÿc0 \n",
     "zhTW": "符文：科",
     "deDE": "[fs]Ko-Rune",
     "esES": "Runa Ko",
@@ -376,7 +376,7 @@
   {
     "id": 20456,
     "Key": "r17",
-    "enUS": " \n ÿc8Xx ÿc9Xx ÿc5x  ÿc0Lum Rune  ÿc5x ÿc9xX ÿc8xXÿc0 \n ",
+    "enUS": "\n ÿc8Xx ÿc9Xx ÿc5x  ÿc0Lum Rune  ÿc5x ÿc9xX ÿc8xXÿc0 \n",
     "zhTW": "符文：盧姆",
     "deDE": "[fs]Lum-Rune",
     "esES": "Runa Lum",
@@ -393,7 +393,7 @@
   {
     "id": 20458,
     "Key": "r15",
-    "enUS": " \n ÿc3X ÿc:Xx ÿc5x  ÿc0Hel Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n ",
+    "enUS": "\n ÿc3X ÿc:Xx ÿc5x  ÿc0Hel Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n",
     "zhTW": "符文：海爾",
     "deDE": "[fs]Hel-Rune",
     "esES": "Runa Hel",
@@ -410,7 +410,7 @@
   {
     "id": 20459,
     "Key": "r14",
-    "enUS": " \n ÿc3X ÿc:Xx ÿc5x  ÿc0Dol Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n ",
+    "enUS": "\n ÿc3X ÿc:Xx ÿc5x  ÿc0Dol Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n",
     "zhTW": "符文：多爾",
     "deDE": "[fs]Dol-Rune",
     "esES": "Runa Dol",
@@ -427,7 +427,7 @@
   {
     "id": 20461,
     "Key": "r12",
-    "enUS": " \n ÿc3X ÿc:Xx ÿc5x  ÿc0Sol Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n ",
+    "enUS": "\n ÿc3X ÿc:Xx ÿc5x  ÿc0Sol Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n",
     "zhTW": "符文：索爾",
     "deDE": "[fs]Sol-Rune",
     "esES": "Runa Sol",
@@ -444,7 +444,7 @@
   {
     "id": 20462,
     "Key": "r11",
-    "enUS": " \n ÿc3X ÿc:Xx ÿc5x  ÿc0Amn Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n ",
+    "enUS": "\n ÿc3X ÿc:Xx ÿc5x  ÿc0Amn Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n",
     "zhTW": "符文：安姆",
     "deDE": "[fs]Amn-Rune",
     "esES": "Runa Amn",
@@ -461,7 +461,7 @@
   {
     "id": 20463,
     "Key": "r10",
-    "enUS": " \n ÿc3X ÿc:Xx ÿc5x  ÿc0Thul Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n ",
+    "enUS": "\n ÿc3X ÿc:Xx ÿc5x  ÿc0Thul Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n",
     "zhTW": "符文：書爾",
     "deDE": "[fs]Thul-Rune",
     "esES": "Runa Thul",
@@ -478,7 +478,7 @@
   {
     "id": 20464,
     "Key": "r09",
-    "enUS": " \n ÿc3X ÿc:Xx ÿc5x  ÿc0Ort Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n ",
+    "enUS": "\n ÿc3X ÿc:Xx ÿc5x  ÿc0Ort Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n",
     "zhTW": "符文：歐特",
     "deDE": "[fs]Ort-Rune",
     "esES": "Runa Ort",
@@ -495,7 +495,7 @@
   {
     "id": 20465,
     "Key": "r08",
-    "enUS": " \n ÿc3X ÿc:Xx ÿc5x  ÿc0Ral Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n ",
+    "enUS": "\n ÿc3X ÿc:Xx ÿc5x  ÿc0Ral Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n",
     "zhTW": "符文：拉爾",
     "deDE": "[fs]Ral-Rune",
     "esES": "Runa Ral",
@@ -512,7 +512,7 @@
   {
     "id": 20466,
     "Key": "r07",
-    "enUS": " \n ÿc3X ÿc:Xx ÿc5x  ÿc0Tal Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n ",
+    "enUS": "\n ÿc3X ÿc:Xx ÿc5x  ÿc0Tal Rune  ÿc5x ÿc:xX ÿc3Xÿc0 \n",
     "zhTW": "符文：塔爾",
     "deDE": "[fs]Tal-Rune",
     "esES": "Runa Tal",
