@@ -1,7 +1,9 @@
 # D2R-Loot-Filter
 
 To use this D2R filter, you must first extract your game files using the method detailed in this video guide:
+
 https://www.youtube.com/watch?v=3n1TVDurt2c
+
 https://www.reddit.com/r/Diablo/comments/qey05y/d2r_single_player_tips_to_improve_your_load_times/
 
 After you have successfully done this, copy and paste the json files into your D2R folder
