@@ -12480,7 +12480,7 @@
   {
     "id": 11164,
     "Key": "tes",
-    "enUS": "ÿc3[X]  ÿc8Twisted Essence of Suffering  ÿc3[X]",
+    "enUS": "\nÿc3[X]  ÿc8Twisted Essence of Suffering  ÿc3[X]\n",
     "zhTW": "扭曲的苦怨精華",
     "deDE": "Verdorbene Essenz des Leidens",
     "esES": "Esencia del sufrimiento retorcida",
@@ -12497,7 +12497,7 @@
   {
     "id": 11165,
     "Key": "ceh",
-    "enUS": "ÿc9[X]  ÿc8Charged Essence of Hatred  ÿc9[X]",
+    "enUS": "\nÿc9[X]  ÿc8Charged Essence of Hatred  ÿc9[X]\n",
     "zhTW": "充盈的憎恨精華",
     "deDE": "Geladene Essenz des Hasses",
     "esES": "Esencia del odio cargada",
@@ -12514,7 +12514,7 @@
   {
     "id": 11166,
     "Key": "bet",
-    "enUS": "ÿc1[X]  ÿc8Burning Essence of Terror  ÿc1[X]",
+    "enUS": "\nÿc1[X]  ÿc8Burning Essence of Terror  ÿc1[X]\n",
     "zhTW": "燃燒的恐懼精華",
     "deDE": "Brennende Essenz des Schreckens",
     "esES": "Esencia del terror ardiente",
@@ -12531,7 +12531,7 @@
   {
     "id": 11167,
     "Key": "fed",
-    "enUS": "ÿc:[X]  ÿc8Festering Essence of Destruction  ÿc:[X]",
+    "enUS": "\nÿc:[X]  ÿc8Festering Essence of Destruction  ÿc:[X]\n",
     "zhTW": "潰爛的毀滅精華",
     "deDE": "Eiternde Essenz der Zerstörung",
     "esES": "Esencia de la destrucción infecta",
