@@ -11,9 +11,9 @@ The process takes about 30 minutes. After you have completed this, copy and past
 ![image](https://user-images.githubusercontent.com/76863417/219985426-0f34e0f6-63d6-4e5b-8b8c-ee872e1c815f.png)
 
 
-This loot filter is for mid-lategame and has potions H1-H4 and M1-M4 hidden.
+The earlygame filter shows all potions H1-H5 and M1-M5. The midgame filter hides H1-H4 and M1-M3
 
-![image](https://user-images.githubusercontent.com/76863417/219979503-91208faa-8aa2-4169-9dba-11d71fe34e2e.png)
+![image](https://user-images.githubusercontent.com/76863417/222921739-eb56a85c-34b6-4a9a-ae58-d7b4c8d7a959.png)
 
 ![image](https://user-images.githubusercontent.com/76863417/219979022-0b2ad9fc-12e1-482f-8bd0-05bdd5bc63e1.png)
 
