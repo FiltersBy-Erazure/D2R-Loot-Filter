@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": 1060,
     "Key": "qf1",
@@ -4711,7 +4711,7 @@
   {
     "id": 2207,
     "Key": "vps",
-    "enUS": "Stamina Potion",
+    "enUS": "",
     "zhTW": "精力藥水",
     "deDE": "Ausdauerelixier",
     "esES": "Poción de aguante",
@@ -4728,7 +4728,7 @@
   {
     "id": 2208,
     "Key": "yps",
-    "enUS": "ÿc:(ÿc0Aÿc:)",
+    "enUS": "ÿc5Iÿc:(ÿc0Aÿc:)ÿc5Iÿc0",
     "zhTW": "解毒藥水",
     "deDE": "Gegengiftelixier",
     "esES": "Poción antídoto",
@@ -4779,7 +4779,7 @@
   {
     "id": 2211,
     "Key": "wms",
-    "enUS": "ÿc9(ÿc0Tÿc9)",
+    "enUS": "ÿc5Iÿc9(ÿc0Tÿc9)ÿc5Iÿc0",
     "zhTW": "融冰藥水",
     "deDE": "Auftauelixier",
     "esES": "Poción descongelante",
@@ -13857,7 +13857,7 @@
   {
     "id": 20259,
     "Key": "7vo",
-    "enUS": "\n|(O   Colossus Voulge   O)|\n",
+    "enUS": "Colossus Voulge",
     "zhTW": "巨神長柄斧",
     "deDE": "[fs]Kolossvulge",
     "esES": "[ms]Voulge del coloso",
@@ -15353,7 +15353,7 @@
   {
     "id": 20347,
     "Key": "usk",
-    "enUS": "\n|(O   Demonhead   O)|\n",
+    "enUS": "Demonhead",
     "zhTW": "惡魔頭骨",
     "deDE": "[ms]Dämonenschädel",
     "esES": "[fs]Faz del demonio",
